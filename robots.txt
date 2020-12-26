@@ -1,0 +1,12 @@
+User-agent: *
+Allow: /
+Sitemap: https://www.amor.com.eg/sitemap/sitemap-1.xml
+Sitemap: https://www.amor.com.eg/sitemap/sitemap-2.xml
+Sitemap: https://www.amor.com.eg/sitemap/sitemap-3.xml
+Sitemap: https://www.amor.com.eg/sitemap/sitemap-4.xml
+Sitemap: https://www.amor.com.eg/sitemap/sitemap-5.xml
+Sitemap: https://www.amor.com.eg/sitemap/sitemap-6.xml
+Sitemap: https://www.amor.com.eg/sitemap/sitemap-7.xml
+Sitemap: https://www.amor.com.eg/sitemap/sitemap-8.xml
+Sitemap: https://www.amor.com.eg/sitemap/sitemap-9.xml
+Sitemap: https://www.amor.com.eg/sitemap/sitemap-10.xml
